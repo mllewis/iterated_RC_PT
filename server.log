@@ -189,4 +189,24 @@ NameError: global name 'e' is not defined
 [2015-03-04 20:40:02 -0800] [10562] [CRITICAL] WORKER TIMEOUT (pid:16478)
 [2015-03-04 20:40:02 -0800] [10562] [CRITICAL] WORKER TIMEOUT (pid:16479)
 [2015-03-04 20:40:02 -0800] [10562] [CRITICAL] WORKER TIMEOUT (pid:16481)
-[2015-03-04 20:40:02 -0800] [10562] [CRITICAL] WORKER TIMEOUT (pid:164
+[2015-03-04 20:40:02 -0800] [10562] [CRITICAL] WORKER TIMEOUT (pid:164[2015-03-05 22:52:04 +0000] [24899] [ERROR] Invalid address: ('10.34.17.36', 22362)
+[2015-03-05 22:53:04 +0000] [24915] [ERROR] Invalid address: ('10.34.17.36', 22362)
+[2015-03-05 22:53:39 +0000] [24970] [ERROR] Invalid address: ('10.34.17.36', 22362)
+[2015-03-05 22:57:45 +0000] [25039] [ERROR] Invalid address: ('10.34.17.36', 22362)
+[2015-03-05 22:59:58 +0000] [25098] [ERROR] Invalid address: ('10.34.17.36', 22363)
+[2015-03-05 23:04:02 +0000] [25156] [ERROR] Invalid address: ('10.34.17.36', 22363)
+2015-03-05 23:06:43,551 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:06:43,681 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:06:43,727 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:17:07,048 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:17:07,145 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:17:07,193 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:18:22,537 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:18:22,699 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:18:22,700 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:20:39,801 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:20:39,840 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:20:39,858 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:20:59,729 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:20:59,834 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-03-05 23:20:59,865 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
